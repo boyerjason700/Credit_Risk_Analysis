@@ -16,6 +16,11 @@
 ### SMOTEEN
 ![SMOTEEN](https://user-images.githubusercontent.com/74840026/137636359-d390e7ae-5b2c-417b-8b1c-68c1135f7727.PNG)
 
+### Balanced Random Forest Classifier
+![balanced_random_forest_classifier](https://user-images.githubusercontent.com/74840026/137639594-3b3fc09e-025a-4cb4-81f9-be1019dc2b52.PNG)
+
+### Easy Ensemble AdaBoost Classifier
+![easy_ensemble_adaboost_classifier](https://user-images.githubusercontent.com/74840026/137639605-6a29baf6-bdf7-41f9-9a51-6baa7aa17e42.PNG)
 
 
 
